@@ -52,5 +52,14 @@ Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStarti
 
 ![image](https://user-images.githubusercontent.com/87340105/155655024-219bfcb1-4833-4d9e-9d96-7cefda651783.png)
 
+
+![image](https://user-images.githubusercontent.com/87340105/155655291-8e16ce5b-f7d9-484b-8b41-15e1fc75252b.png)
+![image](https://user-images.githubusercontent.com/87340105/155655314-8f657fd2-eca7-4c02-b54f-167111a7f46d.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155655214-0543f190-bde9-4edb-89cf-de0300c6454f.png)
+![image](https://user-images.githubusercontent.com/87340105/155655246-7d50e18c-6c50-453b-9637-ad15e74684aa.png)
+
+
+
 ## Analysis
 ## Summary
