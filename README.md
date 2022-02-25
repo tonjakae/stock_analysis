@@ -66,12 +66,6 @@ Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStarti
 
 #### Advantages and disadvantages of refactoring code
 * Advantages
-  * fjlaksjf 
+  * Makes the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 * Disadvantages
-  * jfkdlasjf
-
-#### Advantages and disadvantages of the original and refactored VBA script
-* Advantages
-  * jfkdajsf
-* Disadvantages
-  * jskalfjas
+  * Refactoring the code can take time and the results may differ from the original. Debugging will need to happen to ensure results are consistent.
