@@ -66,6 +66,12 @@ Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStarti
 
 #### Advantages and disadvantages of refactoring code
 * Advantages
-  * 
+  * fjlaksjf 
 * Disadvantages
-  *  
+  * jfkdlasjf
+
+#### Advantages and disadvantages of the original and refactored VBA script
+* Advantages
+  * jfkdajsf
+* Disadvantages
+  * jskalfjas
